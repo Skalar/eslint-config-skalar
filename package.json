@@ -1,10 +1,9 @@
 {
   "name": "eslint-config-skalar",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Skalar's ESLint configuration",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Skalar/eslint-config-skalar.git"
