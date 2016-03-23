@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-skalar",
+  "version": "0.0.1",
+  "description": "Skalar's ESLint configuration",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skalar/eslint-config-skalar.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "author": "Skalar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Skalar/eslint-config-skalar/issues"
+  },
+  "homepage": "https://github.com/Skalar/eslint-config-skalar#readme"
+}
