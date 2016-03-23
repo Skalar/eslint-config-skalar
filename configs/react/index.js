@@ -1,5 +1,5 @@
 module.exports = {
-  "extends": "skalar/configs/es"
+  "extends": "skalar/configs/es",
   "plugins": ["react"],
   "parserOptions": {
     "ecmaFeatures": {
@@ -14,7 +14,7 @@ module.exports = {
     "react/jsx-no-duplicate-props": [1],
     "react/no-unknown-property": [2],
     "react/no-did-update-set-state": 2,
-    "react/jsx-uses-vars": 2
+    "react/jsx-uses-vars": 2,
     "react/jsx-no-bind": 2,
   }
 }
