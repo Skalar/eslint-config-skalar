@@ -6,7 +6,7 @@ module.exports = {
     "computed-property-spacing": [2, "never"],
     "eol-last": 2,
     "func-names": 0,
-    "indent": [2, 2],
+    "indent": [2, 2, {"SwitchCase": 1}],
     "jsx-quotes": [1, "prefer-double"],
     // key-spacing: [2, {"beforeColon": false, "afterColon": true}],
     "keyword-spacing": 2,
