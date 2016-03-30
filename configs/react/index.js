@@ -15,6 +15,5 @@ module.exports = {
     "react/no-unknown-property": [2],
     "react/no-did-update-set-state": 2,
     "react/jsx-uses-vars": 2,
-    "react/jsx-no-bind": 2,
   }
 }
