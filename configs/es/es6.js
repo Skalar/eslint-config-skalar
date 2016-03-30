@@ -11,7 +11,7 @@ module.exports = {
     "prefer-const": 1,
     "prefer-rest-params": 2,
     "prefer-spread": 2,
-    "prefer-template": 2,
+    "prefer-template": 1,
     "template-curly-spacing": [2, "never"],
   }
 }

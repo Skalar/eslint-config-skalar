@@ -42,7 +42,7 @@ module.exports = {
     }],
     "padded-blocks": [2, "never"],
     "quote-props": [1, "as-needed"],
-    "quotes": [2, "single"],
+    "quotes": [1, "single"],
     "semi": [1, "never"],
     "space-before-blocks": 2,
     "space-before-function-paren": [2, "never"],
