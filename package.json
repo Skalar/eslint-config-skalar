@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Skalar/eslint-config-skalar/issues"
   },
-  "homepage": "https://github.com/Skalar/eslint-config-skalar#readme"
+  "homepage": "https://github.com/Skalar/eslint-config-skalar#readme",
+  "dependencies": {
+    "babel-eslint": "^6.0.4"
+  }
 }
