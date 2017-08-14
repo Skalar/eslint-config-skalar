@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Skalar/eslint-config-skalar#readme",
   "dependencies": {
-    "babel-eslint": "^6.0.4"
+    "babel-eslint": "^6.0.4",
+    "eslint-plugin-babel": "^4.1.2"
   }
 }
