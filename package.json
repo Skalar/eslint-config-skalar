@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-skalar",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Skalar's ESLint configuration",
   "main": "index.js",
   "scripts": {},
