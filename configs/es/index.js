@@ -8,7 +8,7 @@ module.exports = {
     "skalar/configs/es/stylistic",
     "skalar/configs/es/es6",
   ],
-
+  "plugins": ["babel"],
   "root": true,
   "parser": "babel-eslint",
   "env": {
